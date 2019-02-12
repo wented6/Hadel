@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=
+token=NTIzNzU3OTA5MTA0OTE4NTI5.D0S6SQ.t987eyFdPl2gBmL6tAAAL1cKW40
+owner=476017714738233344
+prefix=H
+game=Bot of Princess
 stayinchannel=true
 songinstatus=false
